@@ -3,7 +3,7 @@
 ## Description
 A C++ implementation of the N-Queens Problem using the Backtracking Algorithm with console visualization, colored output, and multiple solutions.
 
-##Problem Statement
+## Problem Statement
 The N-Queens Problem requires placing N queens on an N x N chessboard such that no two queens attack each other horizontally, vertically, or diagonally.
 
 ## Features
