@@ -1,6 +1,6 @@
 # N-Queens Visualizer in C++
 
-# Description
+## Description
 A C++ implementation of the N-Queens Problem using the Backtracking Algorithm with console visualization, colored output, and multiple solutions.
 
 ##Problem Statement
